@@ -1,29 +1,6 @@
-# TestTaskNovosibVue
+<h1 align="left">Тестовое задание_Junior web developer/junior С# developer ИЛИ Тестовое задание "Младший разработчик ПО"</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<h3>Все задания распределены по веткам:</h3>
+<h4>1. Ветка <a href="https://github.com/Tosha-84/TestTaskNovosib/tree/TestTaskNovosib">TestTaskNovosib</a> содержит WPF приложение.</h4>
+<h4>2. Ветка <a href="https://github.com/Tosha-84/TestTaskNovosib/tree/TestTaskNovosibVue">TestTaskNovosibVUE</a> содержит VUE решение с сохранением в cookie.</h4>
+<h4>3. Ветка <a href="https://github.com/Tosha-84/TestTaskNovosib/tree/TestTaskNovosibDBScripts">TestTaskNovosibDBScripts</a> по созданию таблицы на MS SQL + процедуры, которые используются в WPF приложении.</h4>
